@@ -1,0 +1,15 @@
+/* certification-page */
+.noticediv{
+  height: 100vh;
+  width: 100vh;
+  display: flex;
+  align-items: center;
+}
+.notice{
+
+  font-size: 35px;
+  color: block;
+  font-weight: 600;
+  text-align: center;
+}
+/* certification-page */
